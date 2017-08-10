@@ -9,6 +9,15 @@ a {
   }
 }
 
+.site-title a {
+  color: inherit;
+  box-shadow: none;
+
+  &:hover, &:focus, &:active {
+    color: $orange;
+  }
+}
+
 aside a {
   color: $darkgrey;
   box-shadow: none;
