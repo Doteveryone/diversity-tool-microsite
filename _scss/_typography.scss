@@ -2,6 +2,7 @@ body {
   font-family: $body;
   @include body;
   font-weight: 300;
+  color: $black;
 }
 
 p, ul, li {
@@ -10,6 +11,12 @@ p, ul, li {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
+}
+
+aside {
+  color: $darkgrey;
+  @include body-small;
+  padding-top: $gutter/2;
 }
 
 article  {
