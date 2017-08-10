@@ -1,0 +1,31 @@
+body {
+  font-family: $body;
+  @include body;
+  font-weight: 300;
+}
+
+p, ul, li {
+  @include body;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+article  {
+  h1 {
+    @include heading-large;
+  }
+
+  h2 {
+    @include heading;
+  }
+
+  h3 {
+    @include heading-small;
+  }
+}
+
+.site-title {
+  @include heading-small;
+}
