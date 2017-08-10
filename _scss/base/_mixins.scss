@@ -1,0 +1,12 @@
+@mixin media($point) {
+   @if $point == desktop {
+     @media (min-width: $desktop) { @content ; }
+  }
+   @else if $point == tablet {
+     @media (min-width: $tablet) { @content ; }
+  }
+  @else if $point == phoneonly {
+     @media (max-width: $tablet)  { @content ; }
+
+  }
+}
