@@ -13,6 +13,7 @@ Main page headings are `h1` elements, so futher headings within this scope shoul
 
 <aside>
   <figure>
+    <img src="https://scontent-lht6-1.cdninstagram.com/t51.2885-15/e35/20482565_1196880540417940_2668790642196348928_n.jpg" alt="Honey" />
   </figure>
   <figcaption>
     <p>Hello! this is an aside. It has <a href="#">a link</a>.</p>
