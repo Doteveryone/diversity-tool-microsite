@@ -29,3 +29,13 @@ aside {
     float: right;
   }
 }
+
+.one-third {
+  width: calc(32% - 20px);
+  margin-right: 20px;
+  float: left;
+}
+
+.two-thirds {
+  width: calc(66% - $gutter);
+}

@@ -5,8 +5,10 @@ body {
   color: $black;
 }
 
-p, ul, li {
-  @include body;
+article {
+  p, ul, li {
+    @include body;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -35,4 +37,10 @@ article  {
 
 .site-title {
   @include heading-small;
+}
+
+.footer-header {
+  @include heading-smallest;
+  text-transform: uppercase;
+  font-weight: 200;
 }

@@ -25,6 +25,11 @@
   line-height: 1.2;
 }
 
+@mixin heading-smallest() {
+  font-size: 16px;
+  line-height: 1.2;
+}
+
 @mixin body() {
   font-size: 20px;
   line-height: 1.6;

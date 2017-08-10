@@ -20,3 +20,13 @@ aside a {
     background: lighten($yellow, 15);
   }
 }
+
+footer a  {
+  box-shadow: none;
+  border-bottom: 1px solid $black;
+
+  &:hover, &:focus, &:active {
+    box-shadow: none;
+    background: lighten($yellow, 10);
+  }
+}
