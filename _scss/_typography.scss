@@ -19,6 +19,10 @@ aside {
   color: $darkgrey;
   @include body-small;
   padding-top: $gutter/2;
+
+  p {
+    @include body-small;
+  }
 }
 
 article  {
@@ -36,11 +40,20 @@ article  {
 }
 
 .site-title {
-  @include heading-small;
+  @include heading-smallest;
+  text-transform: uppercase;
+  font-weight: 200;
+  color: $yellow;
+  margin-top: 2em;
 }
 
 .footer-header {
   @include heading-smallest;
   text-transform: uppercase;
   font-weight: 200;
+}
+
+code {
+  background: lighten($lightgrey, 5);
+  padding: 0 2px;
 }
