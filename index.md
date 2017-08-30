@@ -35,9 +35,7 @@ We've created a tool to turn the results of the Google Form above into a series 
 
 Finding out how diverse your organisation is is only a starting point. Next you'll need to interpret what this means, and how to improve.
 
-The following resources can help with getting started:
-
-* (links here)
+We gathered a [list of resources](/how-to-improve) that can help you decide what your next steps should be.
 
 ## You’re in good company
 
@@ -45,4 +43,4 @@ Here are some of the organisations who used this tool to find out about their di
 
 * [BETC](http://www.betcbside.com/blog/2017/4/3/how-diverse-are-we)
 
-Do you use this tool, and want to be included here? Get in touch!
+Do you use this tool, and want to be included here? Email us at EMAIL_ADDRESS or submit a pull request on GitHub.
