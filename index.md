@@ -9,7 +9,7 @@ Reporting on diversity can be tricky for small organisations. It's hard to know 
 
 This is tool exists to make it easier.
 
-## Survey your organisation
+## 1. Survey your organisation
 
 <aside>A screenshot of the survey goes here</aside>
 
@@ -19,9 +19,9 @@ It helps see how inclusive your are being across genders, ages, LGBT identities,
 
 It's available as a Google Form that can be reused for your organisation.
 
-[Get the form, and find out more about how to use it &rarr;](/questions)
+[Get the form, and find out more about how to use it &rarr;](/survey-your-organisation)
 
-## Share your results
+## 2. Share your results
 
 <aside>A screenshot of the graphs goes here</aside>
 
@@ -31,6 +31,14 @@ We've created a tool to turn the results of the Google Form above into a series 
 
 [Turn your results into charts &rarr;](/)
 
+## 3. Find out how to improve
+
+Finding out how diverse your organisation is is only a starting point. Next you'll need to interpret what this means, and how to improve.
+
+The following resources can help with getting started:
+
+* (links here)
+
 ## You’re in good company
 
 Here are some of the organisations who used this tool to find out about their diversity:
@@ -38,11 +46,3 @@ Here are some of the organisations who used this tool to find out about their di
 * [BETC](http://www.betcbside.com/blog/2017/4/3/how-diverse-are-we)
 
 Do you use this tool, and want to be included here? Get in touch!
-
-## Next steps and resources
-
-Finding out how diverse your organisation is is only a starting point. Next you'll need to interpret what this means, and how to improve.
-
-The following resources can help with getting started:
-
-* (links here)
