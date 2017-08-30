@@ -3,43 +3,43 @@ layout: page
 title: How diverse is your organisation?
 ---
 
-We think organisations can become better by becoming more diverse. A step towards becoming more diverse is to find out how diverse your organisation currently is, and to share the results.
+Make a public commitment to to change by measuring and sharing how diverse your organisation is.
 
-Reporting on diversity is tricky for small organisations. It's hard to know what the right thing to ask is, what to share and how to display the results.
+Reporting on diversity can be tricky for small organisations. It's hard to know what the right thing to ask is, what to share and how to display the results.
 
 This is tool exists to make it easier.
 
-## Asking Questions
+## Survey your organisation
 
 <aside>A screenshot of the survey goes here</aside>
 
-We've created a survey that can be used to find out more about an organisation's diversity.
+We've created a survey that can be used to find out more about your organisation's diversity.
 
-It helps see how an organisation is doing in five areas: gender, age, LGBT-inclusion, disability and ethnicity.
+It helps see how inclusive your are being across genders, ages, LGBT, disabilities, religions and ethnicities.
 
 It's available as a Google Form that can be reused for your organisation.
 
 [Get the form, and find out more about how to use it &rarr;](/questions)
 
-## Sharing Results
+## Share your results
 
 <aside>A screenshot of the graphs goes here</aside>
 
-Words
+Once you've surveyed your members anonymously, share the aggregate results publicly.
+
+We've created a tool to turn the results of the Google Form above into a series of charts.
 
 [Turn your results into charts &rarr;](/)
 
-## Why we did this
-
-## Who else has done this?
+---
 
 Here are some of the organisations who have used this tool to find out about their diversity:
 
-* BETC
+* [BETC](http://www.betcbside.com/blog/2017/4/3/how-diverse-are-we)
 
 Used this tool, and want to be included here? Get in touch!
 
-## What next?
+## Next steps and resources
 
 Finding out how diverse your organisation is is only a starting point. Next you'll need to interpret what this means, and how to improve.
 
