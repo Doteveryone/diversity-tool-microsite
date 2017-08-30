@@ -1,102 +1,48 @@
 ---
 layout: page
-title: Diversity matters.
+title: How diverse is your organisation?
 ---
 
-You can find the source code for Minima at GitHub:
-[minima](https://github.com/jekyll/minima)
+We think organisations can become better by becoming more diverse. A step towards becoming more diverse is to find out how diverse your organisation currently is, and to share the results.
 
-<aside>Hello! this is an aside. It has <a href="#">a link</a>.</aside>
+Reporting on diversity is tricky for small organisations. It's hard to know what the right thing to ask is, what to share and how to display the results.
 
-## Second-level heading
-Main page headings are `h1` elements, so futher headings within this scope should start with `h2`, an example of which appears directly above. More than one may be used per page. Consider using an `h2` unless you need a header level of less importance, or as a sub-header to an existing `h2` element.
+This is tool exists to make it easier.
 
-<aside>
-  <figure>
-    <img src="https://scontent-lht6-1.cdninstagram.com/t51.2885-15/e35/20482565_1196880540417940_2668790642196348928_n.jpg" alt="Honey" />
-  </figure>
-  <figcaption>
-    <p>Hello! this is an aside. It has <a href="#">a link</a>.</p>
-  </figcaption>
-</aside>
+## Asking Questions
 
-### Third-level heading
-The header above is an `h3` element, which may be used for any form of page-level header which falls below the `h2` header in a document hierarchy.
+<aside>A screenshot of the survey goes here</aside>
 
-#### Fourth-level heading
-The header above is an `h4` element, which may be used for any form of page-level header which falls below the `h3` header in a document hierarchy.
+We've created a survey that can be used to find out more about an organisation's diversity.
 
-## Grouping content
+It helps see how an organisation is doing in five areas: gender, age, LGBT-inclusion, disability and ethnicity.
 
-### Paragraphs
-All paragraphs are wrapped in `p` tags.
+It's available as a Google Form that can be reused for your organisation.
 
-<aside>Hello! this is an aside. It has <a href="#">a link</a>.</aside>
+[Get the form, and find out more about how to use it &rarr;](/questions)
 
-### Horizontal rule
-The `hr` element represents a paragraph-level thematic break, e.g. a scene change in a story, or a transition to another topic within a section of a reference book. The following extract from <cite>Pandora's Star</cite> by Peter F. Hamilton shows two paragraphs that precede a scene change and the paragraph that follows it:
+## Sharing Results
 
-Dudley was ninety-two, in his second life, and fast approaching time for another rejuvenation. Despite his body having the physical age of a standard fifty-year-old, the prospect of a long degrading campaign within academia was one he regarded with dread. For a supposedly advanced civilization, the Intersolar Commonwealth could be appallingly backward at times, not to mention cruel.
+<aside>A screenshot of the graphs goes here</aside>
 
-*Maybe it won't be that bad*, he told himself. The lie was comforting enough to get him through the rest of the night's shift.
+Words
 
----
+[Turn your results into charts &rarr;](/)
 
-The Carlton AllLander drove Dudley home just after dawn. Like the astronomer, the vehicle was old and worn, but perfectly capable of doing its job. It had a cheap diesel engine, common enough on a semi-frontier world like Gralmond, although its drive array was a thoroughly modern photoneural processor. With its high suspension and deep-tread tyres it could plough along the dirt track to the observatory in all weather and seasons, including the metre-deep snow of Gralmond's winters.
+## Why we did this
 
-### Pre-formatted text
-The `pre` element represents a block of pre-formatted text, in which structure is represented by typographic conventions rather than by elements. Such examples are an e-mail (with paragraphs indicated by blank lines, lists indicated by lines prefixed with a bullet), fragments of computer code (with structure indicated according to the conventions of that language) or displaying ASCII art. Here's an example showing the printable characters of ASCII:
+## Who else has done this?
 
-      ! " # $ % & ' ( ) * + , - . /
-    0 1 2 3 4 5 6 7 8 9 : ; < = > ?
-    @ A B C D E F G H I J K L M N O
-    P Q R S T U V W X Y Z [ \ ] ^ _
-    ` a b c d e f g h i j k l m n o
-    p q r s t u v w x y z { | } ~
+Here are some of the organisations who have used this tool to find out about their diversity:
 
-### Blockquotes
-The `blockquote` element represents a section that is being quoted from another source.
+* BETC
 
-> Big Yellow Taxi there by Joni Mitchell, a song in which she complains that they 'paved paradise to put up a parking lot' -- a measure which actually would have alleviated traffic congestion on the outskirts of paradise. Something which Joni singularly fails to point out, perhaps because it doesn't quite fit in with her blinkered view of the world.
->
-> Nevertheless, nice song.
+Used this tool, and want to be included here? Get in touch!
 
-### Ordered list
-The `ol` element denotes an ordered list, and various numbering schemes are available through the CSS (including 1,2,3... a,b,c... i,ii,iii... and so on). Each item requires a surrounding `<li>` and `</li>` tag, to denote individual items within the list (as you may have guessed, `li` stands for list item).
+## What next?
 
- 1. This is an ordered list.
- 2. This is the second item, which contains a sub list
-    1. This is the sub list, which is also ordered.
-    2. It has two items.
- 3. This is the final item on this list.
+Finding out how diverse your organisation is is only a starting point. Next you'll need to interpret what this means, and how to improve.
 
-### Unordered list
-The `ul` element denotes an unordered list (ie. a list of loose items that don't require numbering, or a bulleted list). Again, each item requires a surrounding `<li>` and `</li>` tag, to denote individual items. Here is an example list showing the constituent parts of the British Isles:
+The following resources can help with getting started:
 
-  * United Kingdom of Great Britain and Northern Ireland:
-    * England
-    * Scotland
-    * Wales
-    * Northern Ireland
-  * Republic of Ireland
-  * Isle of Man
-  * Channel Islands:
-    * Bailiwick of Guernsey
-    * Bailiwick of Jersey
-
-Sometimes we may want each list item to contain block elements, typically a paragraph or two:
-
-  * The British Isles is an archipelago consisting of the two large islands of Great Britain and Ireland, and many smaller surrounding islands.
-
-  * Great Britain is the largest island of the archipelago. Ireland is the second largest island of the archipelago and lies directly to the west of Great Britain.
-
-  * The full list of islands in the British Isles includes over 1,000 islands, of which 51 have an area larger than 20 km<sup>2</sup>.
-
-### Definition list
-he `dl` element is for another type of list called a definition list. Instead of list items, the content of a `dl` consists of `dt` (definition term) and `dd` (definition description) pairs. Though it may be called a "definition list", `dl` can apply to other scenarios where a parent/child relationship is applicable. For example, it may be used for marking up dialogues, with each `dt` naming a speaker, and each `dd` containing his or her words.
-
-This is a term.
-: This is the definition of that term, which both live in a `dl`.
-
-Here is another term.
-: And it gets a definition too, which is this line.
+* (links here)
