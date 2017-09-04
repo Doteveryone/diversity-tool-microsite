@@ -7,7 +7,7 @@ Make a public commitment to change by measuring and sharing how diverse your org
 
 Reporting on diversity can be tricky for small organisations. It's hard to know what the right thing to ask is, what to share and how to display the results.
 
-This is tool exists to make it easier.
+We thought we'd share our approach to it, for others to reuse.
 
 ## 1. Survey your organisation
 
@@ -15,7 +15,7 @@ This is tool exists to make it easier.
 
 We've created a survey that can be used to find out more about your organisation's diversity.
 
-It helps see how inclusive your are being across genders, ages, LGBT identities, disabilities, religions and ethnicities.
+It helps see how inclusive your are being across genders, ages, LGBTQIA identities, disabilities, religions and ethnicities.
 
 It's available as a Google Form that can be reused for your organisation.
 
