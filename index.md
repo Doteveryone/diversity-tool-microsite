@@ -10,7 +10,7 @@ When you're in a small organisation it gets tricker. You don't have an HR depart
 
 Small organisations also have an extra concern — when the numbers you report can be mapped so directly to individuals do you risk breaching confidences?
 
-This prototype is our answer to those questions.
+This prototype is our answer to those questions. We’re testing it between October 2017 and March 2018.
 
 ## 1. Survey your organisation
 
