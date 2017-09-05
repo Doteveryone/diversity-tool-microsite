@@ -15,4 +15,4 @@ A short explanation of why we chose it. One or two sentences might be enough, bu
 
 We want to hear from you if you can suggest improvements to the survey questions.
 
-Email us at EMAIL ADDRESS.
+Email us at <a href="mailto:hello@doteveryone.org.uk?subject=Diversity tool">hello@doteveryone.org.uk</a>.

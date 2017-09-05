@@ -51,4 +51,4 @@ We collected some resources that can help you improve your internal processes an
 
 We want to hear from you if you can suggest how to improve this guide.
 
-Email us at EMAIL ADDRESS.
+Email us at <a href="mailto:hello@doteveryone.org.uk?subject=Diversity tool">hello@doteveryone.org.uk</a>.

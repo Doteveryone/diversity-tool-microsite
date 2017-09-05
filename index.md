@@ -44,4 +44,4 @@ Here are some of the organisations who used this tool to find out about their di
 
 * [BETC](http://www.betcbside.com/blog/2017/4/3/how-diverse-are-we)
 
-Do you use this tool, and want to be included here? Email us at EMAIL_ADDRESS or submit a pull request on GitHub.
+Do you use this tool, and want to be included here? Email us at <a href="mailto:hello@doteveryone.org.uk?subject=Diversity tool">hello@doteveryone.org.uk</a> or submit a pull request on GitHub.
