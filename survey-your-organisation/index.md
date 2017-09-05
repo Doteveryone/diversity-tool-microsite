@@ -11,7 +11,7 @@ This survey asks your organisation members about:
 * Age
 * Gender
 * Ethnicity
-* Religions
+* Religion
 * LGBTQIA Identity
 
 [See a preview of the survey as a Google Form &rarr;](https://docs.google.com/forms/d/e/1FAIpQLSe3Uhu1Z8T1Lsav-SOWQNYwM5iPifHg5QICQwsDCTUTm9Wzqw/viewform?usp=sf_link)
@@ -21,7 +21,7 @@ This survey asks your organisation members about:
 Follow these steps to resuse this survey:
 1. Copy [this Google Form](https://docs.google.com/forms/d/1JEPy0MFVrmEHhBhudtI3dljqXRHoDK8MBnsX80o6gkI/copy) to your organisation's Google account.
 2. Edit the introduction and end of the form to include your contact details, in case respondents have any questions for you.
-3. Check who has access to this form, to ensure only the appropriate people in your organisation can access the form responses. You can find these in the "three-dots" menu in the upper right of the form editor, under "Add collaborators".
+3. Check who has access to this form, to ensure only the appropriate people in your organisation can access the form responses. You can find these in the "&#8942;" menu in the upper right of the form editor, under "Add collaborators".
 4. Get the survey link, from the "Send" button in the upper right of the form editor.
 5. Share the link with your organisation's members!
 
