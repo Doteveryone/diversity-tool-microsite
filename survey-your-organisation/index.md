@@ -19,7 +19,7 @@ This survey asks your organisation members about:
 ## How to use this form
 
 Follow these steps to resuse this survey:
-1. Copy [this Google Form](https://docs.google.com/forms/d/1JEPy0MFVrmEHhBhudtI3dljqXRHoDK8MBnsX80o6gkI/copy) to your organisation's Google account.
+1. Copy [this Google Form](https://docs.google.com/forms/d/1f8IjMsJSf62CiOBQm7rJFYn6dUfWhBybFVRksPr6Zxw/copy) to your organisation's Google account.
 2. Edit the introduction and end of the form to include your contact details, in case respondents have any questions for you.
 3. Check who has access to this form, to ensure only the appropriate people in your organisation can access the form responses. You can find these in the "&#8942;" menu in the upper right of the form editor, under "Add collaborators".
 4. Get the survey link, from the "Send" button in the upper right of the form editor.
