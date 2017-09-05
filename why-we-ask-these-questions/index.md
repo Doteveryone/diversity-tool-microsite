@@ -7,6 +7,8 @@ This tool is meant to measure how your organisation is doing, not to provide an 
 
 We ask questions that highlight where you might need to improve, but they might not give you very accurate, granular data. We think that in a small organisation that’s fine.
 
+All of these categories are [protected against discrimination](https://www.gov.uk/discrimination-your-rights) by the law in the UK.
+
 ## Do you have a disability?
 
 In a small organisation you will likely already know which of your employees live with a disability, and what kind. It’s not necessary to ask them for a more detailed answer for the purposes of checking whether this is an area where you can improve.
