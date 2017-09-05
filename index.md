@@ -4,19 +4,19 @@ title: How diverse is your organisation?
 ---
 ## A diversity monitoring tool for small organisations
 
-Make a public commitment to change by measuring and sharing how diverse your organisation is.
+Monitoring the diversity of an organisation can be difficult. What do you mean by diversity? What should you monitor? What are you comparing yourself against? How do you ask the questions? These are not straightforward questions to answer.
 
-Reporting on diversity can be tricky for small organisations. It's hard to know what the right thing to ask is, what to share and how to display the results.
+When you're in a small organisation it gets tricker. You don't have an HR department, so there's probably no-one with direct expertise in this kind of process, so you worry more; are we asking the right thing? are we doing this right? how do we start?
 
-We thought we'd share our approach to it, for others to reuse.
+Small organisations also have an extra concern — when the numbers you report can be mapped so directly to individuals do you risk breaching confidences?
+
+This prototype is our answer to those questions.
 
 ## 1. Survey your organisation
 
 <aside>A screenshot of the survey goes here</aside>
 
 We've created a survey that can be used to find out more about your organisation's diversity.
-
-It helps see how inclusive your are being across genders, ages, LGBTQIA identities, disabilities, religions and ethnicities.
 
 It's available as a Google Form that can be reused for your organisation.
 
