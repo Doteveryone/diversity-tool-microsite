@@ -14,7 +14,7 @@ This prototype is our answer to those questions. We’re testing it between Octo
 
 ## 1. Survey your organisation
 
-<aside>A screenshot of the survey goes here</aside>
+<aside><img src="/images/survey-screenshot.png" alt="A screenshot of one of the survey questions"></aside>
 
 We've created a survey that can be used to find out more about your organisation's diversity.
 
@@ -24,7 +24,7 @@ It's available as a Google Form that can be reused for your organisation.
 
 ## 2. Share your results
 
-<aside>A screenshot of the graphs goes here</aside>
+<aside><img src="/images/graph-screenshot.png" alt="One of the questions visualised"></aside>
 
 Once you've surveyed your members anonymously, share the aggregate results publicly.
 
