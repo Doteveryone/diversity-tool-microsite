@@ -29,7 +29,9 @@ We allow multiple answers because identities rarely fit into a single one.
 
 ## Would you say that your identity fits under the LGBTQIA umbrella?
 
-We don’t want to ask a more detailed question than this. Partially because of privacy concerns, but also because knowing the details of sexuality or gender variance and expression might not be any more helpful in spotting bias than just knowing whether your workplace is LGBTQIA friendly or not.
+LQBTQIA stands for lesbian, gay, bisexual, transgender, queer or questioning, intersex, asexual.
+
+We don’t want to ask a more detailed question about the above identities. Partially because of privacy concerns, but also because knowing the details of sexuality or gender variance and expression might not be any more helpful in spotting bias than just knowing whether your workplace is LGBTQIA friendly or not.
 
 ## What’s your gender?
 
