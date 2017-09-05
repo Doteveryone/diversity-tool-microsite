@@ -2,6 +2,7 @@
 layout: page
 title: How diverse is your organisation?
 ---
+## A diversity monitoring tool for small organisations
 
 Make a public commitment to change by measuring and sharing how diverse your organisation is.
 
