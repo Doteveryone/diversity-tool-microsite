@@ -29,7 +29,7 @@ Once you've surveyed your members anonymously, share the aggregate results publi
 
 We've created a tool to turn the results of the Google Form above into a series of charts.
 
-[Turn your results into charts &rarr;](/)
+[Turn your results into charts &rarr;](/visualise-the-data)
 
 ## 3. Find out how to improve
 
