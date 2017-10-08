@@ -545,11 +545,11 @@ aside {
   color: #545343;
   font-size: 16px;
   line-height: 1.6;
-  padding-top: 10px;
 }
 aside p {
   font-size: 16px;
   line-height: 1.6;
+  margin-top: 0;
 }
 
 article h1 {
