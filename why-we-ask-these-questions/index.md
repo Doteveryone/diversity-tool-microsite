@@ -7,7 +7,7 @@ This tool is meant to measure how your organisation is doing, not to provide an 
 
 We ask questions that highlight where you might need to improve, but they might not give you very accurate, granular data. We think that in a small organisation that’s fine.
 
-All of these categories are [protected against discrimination](https://www.gov.uk/discrimination-your-rights) by the law in the UK.
+All of these categories are <a href="https://www.gov.uk/discrimination-your-rights" target="_blank">protected against discrimination</a> by the law in the UK.
 
 ## Do you have a disability?
 
@@ -19,7 +19,7 @@ It’s not necessary to know the exact age of everyone in your organisation to b
 
 ## Do you have a religion?
 
-We modelled our list on the one used by Ofcom’s [Project Diamond](https://www.ofcom.org.uk/tv-radio-and-on-demand/information-for-industry/guidance/diversity/diversity-guidance/monitoring).
+We modelled our list on the one used by Ofcom’s <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/information-for-industry/guidance/diversity/diversity-guidance/monitoring" target="_blank">Project Diamond</a>.
 
 We allow multiple answers because identities rarely fit into a single one.
 

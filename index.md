@@ -45,6 +45,6 @@ We gathered a [list of resources](/how-to-improve) that can help you decide what
 
 Here are some of the organisations who used this tool to find out about their diversity:
 
-* [BETC](http://www.betcbside.com/blog/2017/4/3/how-diverse-are-we)
+* <a href="http://www.betcbside.com/blog/2017/4/3/how-diverse-are-we" target="_blank">BETC</a>
 
 Do you use this tool, and want to be included here? Email us at <a href="mailto:hello@doteveryone.org.uk?subject=Diversity tool">hello@doteveryone.org.uk</a> or submit a pull request on GitHub.

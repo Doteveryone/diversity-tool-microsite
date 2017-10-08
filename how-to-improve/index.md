@@ -18,7 +18,7 @@ Once you know what your potential challenges are you need to plan how to address
 * Developing more parent friendly policies
 * Allowing job-sharing
 * Specifically advertising your commitment to making a supportive workplace for people with disabilities
-* Changing your hiring strategies  
+* Changing your hiring strategies
 
 State clearly what your goals are, and when you’re going to achieve them.
 
@@ -34,18 +34,18 @@ We collected some resources that can help you improve your internal processes an
 
 ### Improving hiring processes
 
-* [25 tips for diverse hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring)
-* [A list of resources on diverse hiring](https://gist.github.com/alicebartlett/fb4e9b675a3829f80e37) collected by Alice Bartlett
-* [Reducing male bias in hiring](http://geekfeminism.wikia.com/wiki/Reducing_male_bias_in_hiring) from Geek Feminism Wiki
+* <a href="https://modelviewculture.com/pieces/25-tips-for-diverse-hiring" target="_blank">25 tips for diverse hiring</a>
+* <a href="https://gist.github.com/alicebartlett/fb4e9b675a3829f80e37" target="_blank">A list of resources on diverse hiring</a> collected by Alice Bartlett
+* <a href="http://geekfeminism.wikia.com/wiki/Reducing_male_bias_in_hiring" target="_blank">Reducing male bias in hiring</a> from Geek Feminism Wiki
 
 ### Retaining diverse teams
 
-* [Five tips for gender diversity your company can implement now](https://www.theguardian.com/women-in-leadership/2013/nov/28/five-tips-gender-diversity-at-work)
+* <a href="https://www.theguardian.com/women-in-leadership/2013/nov/28/five-tips-gender-diversity-at-work" target="_blank">Five tips for gender diversity your company can implement now</a>
 
 ### Further reading
 
-* [The 101-level reader: books to help you better understand your biases and the lived experiences of people](https://www.ashedryden.com/blog/the-101level-reader-books-to-help-you-better-understand-your-biases-and-the-lived-experiences), list of books grouped by subject, collated by Ashe Dryden
-* [Feminism 101](http://geekfeminism.wikia.com/wiki/Feminism_101) from Geek Feminism Wiki
+* <a href="https://www.ashedryden.com/blog/the-101level-reader-books-to-help-you-better-understand-your-biases-and-the-lived-experiences" target="_blank">The 101-level reader: books to help you better understand your biases and the lived experiences of people</a>, list of books grouped by subject, collated by Ashe Dryden
+* <a href="http://geekfeminism.wikia.com/wiki/Feminism_101" target="_blank">Feminism 101</a> from Geek Feminism Wiki
 
 ## Tell us how to make this page better
 

@@ -14,12 +14,12 @@ This survey asks your organisation members about:
 * Religion
 * LGBTQIA Identity
 
-[See a preview of the survey as a Google Form &rarr;](https://docs.google.com/forms/d/e/1FAIpQLSe3Uhu1Z8T1Lsav-SOWQNYwM5iPifHg5QICQwsDCTUTm9Wzqw/viewform?usp=sf_link)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe3Uhu1Z8T1Lsav-SOWQNYwM5iPifHg5QICQwsDCTUTm9Wzqw/viewform?usp=sf_link" target="_blank">See a preview of the survey as a Google Form &rarr;</a>
 
 ## How to use this form
 
 Follow these steps to resuse this survey:
-1. Copy [this Google Form](https://docs.google.com/forms/d/1f8IjMsJSf62CiOBQm7rJFYn6dUfWhBybFVRksPr6Zxw/copy) to your organisation's Google account.
+1. Copy <a href="https://docs.google.com/forms/d/1f8IjMsJSf62CiOBQm7rJFYn6dUfWhBybFVRksPr6Zxw/copy" target="_blank">this Google Form</a> to your organisation’s Google account.
 2. Edit the introduction and end of the form to include your contact details, in case respondents have any questions for you.
 3. Check who has access to this form, to ensure only the appropriate people in your organisation can access the form responses. You can find these in the "&#8942;" menu in the upper right of the form editor, under "Add collaborators".
 4. Get the survey link, from the "Send" button in the upper right of the form editor.
@@ -29,12 +29,12 @@ Follow these steps to resuse this survey:
 
 When sending out the form it’s important that you are clear why you are asking these questions and that you address potential concerns.
 
-Our research shows us that responders concerns fall into the following categories:
+Our research shows us that responders’ concerns fall into the following categories:
 - wanting to know why personal questions are being asked
 - wanting to understand exactly how the data will be stored and used, which may affect how they choose to answer
 - wanting to have some control over revealing personal information publicly even if it’s done in aggregate
 
-We chose to prioritise the individual’s right to protect their privacy when visualising data. Read more about [how we did it and what that means](/protecting-individuals-privacy).
+We chose to prioritise the individual’s right to protect their privacy when visualising data. Read more about <a href="/protecting-individuals-privacy" target="_blank">how we did it and what that means</a>.
 
 ### Downsides of using a Google Form
 
