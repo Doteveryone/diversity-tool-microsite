@@ -18,7 +18,7 @@ This survey asks your organisation members about:
 
 ## How to use this form
 
-Follow these steps to resuse this survey:
+Follow these steps to reuse this survey:
 1. Copy <a href="https://docs.google.com/forms/d/1f8IjMsJSf62CiOBQm7rJFYn6dUfWhBybFVRksPr6Zxw/copy" target="_blank">this Google Form</a> to your organisation’s Google account.
 2. Edit the introduction and end of the form to include your contact details, in case respondents have any questions for you.
 3. Check who has access to this form, to ensure only the appropriate people in your organisation can access the form responses. You can find these in the "&#8942;" menu in the upper right of the form editor, under "Add collaborators".
@@ -27,7 +27,7 @@ Follow these steps to resuse this survey:
 
 ## What to say when sending out the form
 
-When sending out the form it’s important that you are clear why you are asking these questions and that you address potential concerns.
+When sending out the form it’s important that you are clear why you are asking these questions, and that you address potential concerns.
 
 Our research shows us that responders’ concerns fall into the following categories:
 - wanting to know why personal questions are being asked

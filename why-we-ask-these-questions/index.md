@@ -11,7 +11,7 @@ All of these categories are <a href="https://www.gov.uk/discrimination-your-righ
 
 ## Do you have a disability?
 
-In a small organisation you will likely already know which of your employees live with a disability, and what kind. It’s not necessary to ask them for a more detailed answer for the purposes of checking whether this is an area where you can improve.
+We don’t want to ask for more details on this, since it’s about measuring your organisation’s inclusivity rather than gathering details information about your employees.
 
 ## How old are you?
 
